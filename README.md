@@ -2,10 +2,15 @@
 
 
 - 🔭Today I am looking for opportunities to work in the development area
+- 
 -🌱 Studying Java, Javascript and Programming Logic, HTML, CSS;
+
 -📫 How to get there: Fabio15pontes@outlook.com
+
 -😄 Pronouns: HE / HIS
+
 -⚡Curiosity: technology lover and I love Game.
+
 -👩‍💻 Studying FullStack Web Development |💙 Proa Institute.
 
 ## Olá sou Fabio, um amante de tecnologia.
