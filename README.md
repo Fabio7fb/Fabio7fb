@@ -2,7 +2,7 @@
 
 
 - 🔭Today I am looking for opportunities to work in the development area
-- 
+ 
 -🌱 Studying Java, Javascript and Programming Logic, HTML, CSS;
 
 -📫 How to get there: Fabio15pontes@outlook.com
