@@ -1,20 +1,12 @@
 ### Hi there 👋
 
 
-**Fabio7fb/Fabio7fb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭Today I am looking for opportunities to work in the development area
 -🌱 Studying Java, Javascript and Programming Logic, HTML, CSS;
 -📫 How to get there: Fabio15pontes@outlook.com
 -😄 Pronouns: HE / HIS
 -⚡Curiosity: technology lover and I love Game.
 -👩‍💻 Studying FullStack Web Development |💙 Proa Institute.
-
-
-
-
 
 ## Olá sou Fabio, um amante de tecnologia.
 
